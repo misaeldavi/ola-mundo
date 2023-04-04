@@ -10,7 +10,7 @@ export default function Banner() {
                     Olá Mundo!
                 </h1>
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espalo pessoal! Eu sou Misael David, aprendiz de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo!
+                    Boas vindas ao meu espaço pessoal! Eu sou Misael David, aprendiz de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo!
                 </p>
             </div>
             <div className={styles.imagens}>
